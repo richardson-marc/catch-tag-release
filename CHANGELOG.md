@@ -1,5 +1,9 @@
 ## 3.x
 
+### 3.3.0
+
+* Switch private to true to test again
+
 ### 3.2.2
 
 * Fix syntax error
