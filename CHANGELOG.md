@@ -1,3 +1,10 @@
+## 3.x
+
+### 3.0.0
+
+* Add gitignore and add dependencies
+* Add main entry point
+
 ## 2.x
 
 ### 2.0.0
