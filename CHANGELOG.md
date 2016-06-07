@@ -1,5 +1,9 @@
 ## 3.x
 
+### 3.2.2
+
+* Fix syntax error
+
 ### 3.2.1
 
 * Change private flag to false
