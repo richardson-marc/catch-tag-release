@@ -1,5 +1,9 @@
 ## 3.x
 
+### 3.5.0
+
+* Revmove private entry
+
 ### 3.4.0
 
 * Set private to false
