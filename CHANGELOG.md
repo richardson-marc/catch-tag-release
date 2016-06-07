@@ -1,5 +1,9 @@
 ## 3.x
 
+### 3.2.0
+
+* Add private flag to package.json
+
 ### 3.0.0
 
 * Add gitignore and add dependencies
