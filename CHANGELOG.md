@@ -1,5 +1,9 @@
 ## 3.x
 
+### 3.4.0
+
+* Set private to false
+
 ### 3.3.0
 
 * Switch private to true to test again
