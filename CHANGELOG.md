@@ -1,5 +1,10 @@
 ## 3.x
 
+### 3.6.0
+
+* Test commitl lkjlkj
+* Pertinent
+
 ### 3.5.0
 
 * Revmove private entry
