@@ -1,5 +1,9 @@
 ## 3.x
 
+### 3.6.1
+
+* WUT?
+
 ### 3.6.0
 
 * Test commitl lkjlkj
