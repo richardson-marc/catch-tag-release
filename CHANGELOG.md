@@ -1,5 +1,10 @@
 ## 4.x
 
+### 4.1.0
+
+* And here is my second commit
+* Here is my first commit
+
 ### 4.0.0
 
 * Updating the CHANGELOG yet again
