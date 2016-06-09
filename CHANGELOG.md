@@ -1,5 +1,10 @@
 ## 3.x
 
+### 3.40.0
+
+* Updating the CHANGELOG yet again
+* Updating the CHANGELOG
+
 ### 3.38.1
 
 * Updating the CHANGELOG
