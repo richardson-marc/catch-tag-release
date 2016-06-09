@@ -1,5 +1,9 @@
 ## 3.x
 
+### 3.33.0
+
+* Add publishConfig
+
 ### 3.32.3
 
 * Hello, it's 4:39pm and this is about to work
