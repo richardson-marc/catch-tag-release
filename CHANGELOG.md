@@ -1,5 +1,9 @@
 ## 3.x
 
+### 3.37.0
+
+* Add more things to CHANGELOG
+
 ### 3.36.0
 
 * Add more things to CHANGELOG
