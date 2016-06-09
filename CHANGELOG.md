@@ -1,3 +1,10 @@
+## 4.x
+
+### 4.0.0
+
+* Updating the CHANGELOG yet again
+* Updating the CHANGELOG
+
 ## 3.x
 
 ### 3.40.0
