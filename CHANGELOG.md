@@ -1,5 +1,9 @@
 ## 3.x
 
+### 3.35.0
+
+* Appended stuff to ChANGELOG.md
+
 ### 3.34.0
 
 * Append stuff to ChANGELOG.md
