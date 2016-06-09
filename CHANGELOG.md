@@ -1,5 +1,9 @@
 ## 3.x
 
+### 3.33.1
+
+* Append stuff to ChANGELOG.md
+
 ### 3.33.0
 
 * Add publishConfig
