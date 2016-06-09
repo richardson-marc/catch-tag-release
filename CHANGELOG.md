@@ -1,5 +1,12 @@
 ## 4.x
 
+### 4.2.0
+
+* Talk about going nowhere fast. Really
+* May the forks be with you
+* Beware the HEADless horseman of gitty hollow
+* Commit early, commit often. Helpful for git, not relationships
+
 ### 4.1.0
 
 * And here is my second commit
