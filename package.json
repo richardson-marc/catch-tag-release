@@ -2,6 +2,7 @@
   "name": "catch-tag-release",
   "version": "4.2.0",
   "description": "",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
