@@ -1,3 +1,12 @@
+## 7.x
+
+### 7.0.0
+
+* Remove private field
+* 6.0.0
+* null
+* Update package.json
+
 ## 6.x
 
 ### 6.0.0
