@@ -9,9 +9,6 @@
   },
   "author": "",
   "license": "ISC",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
   "devDependencies": {
     "eslint": "^2.11.1",
     "node-notifier": "^4.6.0"
