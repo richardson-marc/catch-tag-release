@@ -2,6 +2,10 @@
 
 ### null
 
+* Update package.json
+
+### null
+
 * Add npmrcx file
 
 ### 5.5.0
