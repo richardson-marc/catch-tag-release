@@ -1,3 +1,10 @@
+## 6.x
+
+### 6.0.0
+
+* null
+* Update package.json
+
 ## 5.x
 
 ### null
