@@ -1,5 +1,14 @@
 ## 7.x
 
+### 7.1.0
+
+* tesitng
+* 7.0.0
+* Remove private field
+* 6.0.0
+* null
+* Update package.json
+
 ### 7.0.0
 
 * Remove private field
