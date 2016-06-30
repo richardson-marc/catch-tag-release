@@ -1,3 +1,15 @@
+## 8.x
+
+### 8.0.0
+
+* DONe
+* Hey look, an animated GIF
+* Hey look, an animated GIF
+* Hey look, an animated GIF
+* Hey look, a GIF
+* Hey look, a GIF
+* Hey look, a GIF
+
 ## 7.x
 
 ### 7.12.0
