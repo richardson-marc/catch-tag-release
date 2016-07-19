@@ -1,8 +1,9 @@
 {
   "name": "catch-tag-release",
-  "version": "10.6.0",
+  "version": "11.5.0",
   "description": "",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +15,9 @@
   "devDependencies": {
     "eslint": "^2.11.1",
     "node-notifier": "^4.6.0"
+  },
+  "dependencies": {
+    "latest": "^0.2.0",
+    "own-version": "0.0.2"
   }
 }
