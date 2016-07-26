@@ -1,5 +1,16 @@
 ## 9.x
 
+### 11.10.0
+
+* 🔥 improv(💾 ⚙): short message
+* 🔥 fix( 💾 ⚙ ): short
+* 🔥 fix( 💾⚙ ): short
+* 🔥feat(💾,⚙): short
+* 🔥fix(config): this is short
+* improv: This is another short message
+* fix(database): this is a short description
+* test
+
 ### 11.6.1
 
 * bla
