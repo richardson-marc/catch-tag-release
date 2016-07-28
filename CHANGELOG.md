@@ -1,5 +1,15 @@
 ## 9.x
 
+### 11.11.0
+
+* test
+* :fire: improv(:wrench:): This is short
+* fix: This is short
+* :fire: fix: This is short
+* :fire: feat(:cd: :wrench:): This is short
+* :fire: feat(:gear:): This is a short, imperative tense description of the change
+* Jim is a :tada: :poop:
+
 ### 11.10.0
 
 * 🔥 improv(💾 ⚙): short message
