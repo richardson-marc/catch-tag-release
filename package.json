@@ -3,7 +3,7 @@
   "version": "12.3.0",
   "description": "",
   "main": "index.js",
-  "private": true,
+  "private": false,
   "scripts": {
     "commit": "git-cz"
   },
