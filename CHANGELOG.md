@@ -1,5 +1,9 @@
 ## 9.x
 
+### 12.4.0
+
+* Update CHANGELOG.md
+
 ### 12.3.1
 
 * Make public
