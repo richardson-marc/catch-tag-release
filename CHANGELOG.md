@@ -1,5 +1,11 @@
 ## 9.x
 
+### 12.6.7
+
+* This is another update to the CHANGELOG.md
+* update package.json
+* testing
+
 * Abort Reverse!
 
 ### 12.6.6
