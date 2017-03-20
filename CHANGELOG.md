@@ -1,5 +1,11 @@
 ## 9.x
 
+### 12.7.0
+
+* Update CHANGELOG.md
+* update package.json
+* testing
+
 * Random thing to simulate change!
 
 ### 12.6.6
