@@ -1,0 +1,29 @@
+{
+  "name": "catch-tag-release",
+  "version": "16.0.2",
+  "description": "",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-leankitkanban"
+    }
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "commitizen": "^2.8.2",
+    "eslint": "^2.11.1",
+    "node-notifier": "^4.6.0"
+  },
+  "dependencies": {
+    "latest": "^0.2.0",
+    "own-version": "0.0.2"
+  }
+}
