@@ -1,5 +1,9 @@
 ## 17.x
 
+### 17.4.0
+
+* update package.json
+
 ### 17.3.0
 
 * another version
