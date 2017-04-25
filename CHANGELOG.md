@@ -787,9 +787,10 @@ robby
 Test from github..
 another one
 echooo
-"windows" 
-"windows" 
+"windows"
+"windows"
 testing
-"yes, it blended" 
+"yes, it blended"
 Hello
 two
+the refactorings!
