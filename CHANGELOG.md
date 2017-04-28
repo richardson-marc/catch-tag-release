@@ -1,5 +1,10 @@
 ## 17.x
 
+### 17.9.2
+
+* 17.9.2-pre.0
+* For realz this time
+
 ### 17.9.2-pre.0
 
 * For realz this timezzz
