@@ -1,5 +1,9 @@
 ## 17.x
 
+### 17.10.2-refactor-pre-test.0
+
+* pre-release refactor test.
+
 ### 17.10.1
 
 * Doing what I want. With an edit.
