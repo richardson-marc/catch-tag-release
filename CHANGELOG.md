@@ -1,5 +1,12 @@
 ## 17.x
 
+### 17.10.0
+
+* testing big refactor
+* blah commit
+* 17.10.0-foo.0
+* yeeaahhhhhh
+
 ### 17.10.0-foo.0
 
 * yeeaahhhhhh
