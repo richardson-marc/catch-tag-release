@@ -1,6 +1,6 @@
 {
   "name": "catch-tag-release",
-  "version": "17.11.1",
+  "version": "17.11.2-no-break.0",
   "description": "",
   "main": "index.js",
   "private": false,
