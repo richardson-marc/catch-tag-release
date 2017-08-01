@@ -1,5 +1,11 @@
 ## 18.x
 
+### 18.2.0
+
+* github auth
+* new commit affter testing qa
+* Bumped web-card-slice to 5.2.0: Added needed fiber
+
 ### 18.1.1
 
 * that work
