@@ -908,3 +908,4 @@ such good work
 doing more work
 this work
 that work
+github auth
