@@ -1,5 +1,9 @@
 ## 18.x
 
+### 18.4.2
+
+* Bumped web-card-slice to 8.14.0, web-common-ui to 12.9.1: Just making a change
+
 ### 18.4.1
 
 * Bumped web-card-slice to 9.1.0, web-common-ui to 12.10.0: Another piece of work
