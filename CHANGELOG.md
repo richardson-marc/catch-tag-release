@@ -1,5 +1,9 @@
 ## 19.x
 
+### 19.1.3
+
+* Bumped web-card-slice to 8.10.0, web-common-ui to 12.5.0: making a change
+
 ### 19.1.2
 
 * downgrading packages
