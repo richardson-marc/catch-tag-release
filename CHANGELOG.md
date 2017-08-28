@@ -1,5 +1,10 @@
 ## 19.x
 
+### 19.1.0
+
+* Bumped web-card-slice to 9.0.0, web-common-ui to 12.10.0: new fresh stuff
+* test
+
 ### 19.0.0
 
 * test
