@@ -1,5 +1,10 @@
 ## 19.x
 
+### 19.2.0
+
+* testing robert's fix 2
+* testing robert's fix
+
 ### 19.1.3
 
 * Bumped web-card-slice to 8.10.0, web-common-ui to 12.5.0: making a change
