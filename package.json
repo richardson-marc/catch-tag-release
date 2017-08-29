@@ -32,7 +32,7 @@
     "@lk/web-core-usercontext": "6.1.0",
     "@lk/web-core-utils": "2.2.2",
     "@lk/web-dev-addon": "^1.0.0",
-    "@lk/web-home-slice": "11.2.0",
+    "@lk/web-home-slice": "11.2.1",
     "@lk/web-slice-engine": "3.3.0",
     "commitizen": "^2.8.2",
     "eslint": "^2.11.1",
