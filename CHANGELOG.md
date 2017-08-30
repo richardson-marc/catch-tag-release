@@ -1,5 +1,9 @@
 ## 19.x
 
+### 19.4.2
+
+* Bumped web-board-slice to 14.14.0, web-home-slice to 12.1.0: need a change
+
 ### 19.4.1
 
 * bump
