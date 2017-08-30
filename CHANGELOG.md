@@ -1,5 +1,9 @@
 ## 19.x
 
+### 19.3.0
+
+* Bumped web-card-slice to 8.10.2, web-common-ui to 12.6.0, web-home-slice to 12.0.0: hoping to hit a conflict of sorts
+
 ### 19.2.1
 
 * Bumped web-board-slice to 14.12.0, web-card-slice to 8.10.1: Bumping for reasons
