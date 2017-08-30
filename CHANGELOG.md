@@ -1,5 +1,11 @@
 ## 19.x
 
+### 19.2.1
+
+* Bumped web-board-slice to 14.12.0, web-card-slice to 8.10.1: Bumping for reasons
+* whatever you want
+* whatever you want
+
 ### 19.2.0
 
 * testing robert's fix 2
