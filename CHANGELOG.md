@@ -1,5 +1,11 @@
 ## 19.x
 
+### 19.4.3
+
+* Bumped web-board-slice to 14.14.0, web-common-ui to 12.5.0: conflict is going to happen
+* Bumped web-board-slice to 14.16.0, web-card-slice to 8.11.0: making something happen
+* Bumped web-board-slice to 14.16.0-negativetags.0, web-card-slice to 8.11.0-new-stats-format.0: making something happen
+
 ### 19.4.2
 
 * Bumped web-board-slice to 14.14.0, web-home-slice to 12.1.0: need a change
